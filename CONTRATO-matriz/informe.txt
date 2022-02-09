@@ -1,0 +1,5 @@
+caso de prueba, tiempo,docente.codigo,docente.fecha_nacimiento,contrato.codigo,contrato.docente,contrato.fecha_contrato,contrato.sueldo,docente.ci,docente.nombre,docente.apellidos,docente.direccion,docente.telefono
+FContrato obtener,1888,0,0,1,1,1,1,0,0,0,0,0
+FContrato insertar,5,0,0,1,1,1,1,0,0,0,0,0
+FDocente obtener,1620,1,1,0,0,0,0,1,1,1,1,1
+FDocente insertar,2,1,1,0,0,0,0,1,1,1,1,1
